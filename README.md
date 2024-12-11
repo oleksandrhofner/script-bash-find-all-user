@@ -1,0 +1,1 @@
+# script-bash-find-all-user
